@@ -1,0 +1,8 @@
+.alert {
+    display: none;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+    background-color: #f56565;
+    color: #fff;
+  }
